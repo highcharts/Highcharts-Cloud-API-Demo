@@ -1,7 +1,7 @@
 ## Highcharts cloud API demo
 Open a command line and launch ``npm install``
 
-Create a data.json and add the right credentials:
+Create a config.json and add the right credentials:
 ```json
 {  
     "teamID" : 123456,   
