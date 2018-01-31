@@ -1,0 +1,22 @@
+{
+  "name": "hccloud_api",
+  "version": "1.0.0",
+  "description": "use hccloud api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mustapha mekhatria",
+  "license": "MIT",
+  "dependencies": {
+    "config-json": "^1.0.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.0-rc2",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "clear": "0.0.1",
+    "nodemon": "^1.14.8"
+  }
+}
